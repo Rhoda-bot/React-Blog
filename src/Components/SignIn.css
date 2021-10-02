@@ -1,0 +1,26 @@
+.h5{
+    font-family: Lobster;
+    text-align: center;
+    justify-content: center;
+    margin: auto;
+}
+#button{
+    width: 30%;
+    /* row-gap: 10px; */
+
+    margin-left:300px ;
+    justify-content: center;
+
+}
+.container{
+    width: 40%;
+}
+.card{
+    transition: ease-in-out 2s;
+}
+.card:hover{
+    border: 2px solid #82b1ff;
+}
+/* .button-wrap{
+  
+} */
